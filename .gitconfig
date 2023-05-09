@@ -1,0 +1,13 @@
+[color]
+	ui = auto
+[init]
+	defaultBranch = main
+[user]
+	name = Josiah Mendes
+	email = josiahmendes@icloud.com
+[core]
+	excludesFile = /Users/josiahmendes/.gitconfig
+[log]
+	abbrevCommit = true
+[push]
+	followTags = true
