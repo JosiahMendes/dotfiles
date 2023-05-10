@@ -11,3 +11,4 @@
 	abbrevCommit = true
 [push]
 	followTags = true
+	autoSetupRemote = true
