@@ -1,6 +1,7 @@
 if status is-interactive
     # Commands to run in interactive sessions can go here
     fish_add_path /opt/homebrew/bin
+    fish_add_path /Users/josiahmendes/dev/tools/flutter/bin
 
     # Dotfiles Shortcut
     alias config="/opt/homebrew/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
